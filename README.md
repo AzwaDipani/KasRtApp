@@ -12,3 +12,5 @@
 
 1. Youtube : 
 2. Pdf :
+
+Proyek: Aplikasi Android untuk Laporan Keuangan KAS RT
