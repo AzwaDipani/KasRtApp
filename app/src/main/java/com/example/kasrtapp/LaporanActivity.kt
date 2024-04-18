@@ -55,8 +55,8 @@ class LaporanActivity : AppCompatActivity() {
                             totalPengeluaran += dataItem.pengeluaran_iuran_warga
                         }
                         var rekapIuran = totalIuranBulanan - totalPengeluaran
-                        jumlahIuranBulananTextView.text = "1. Jumlah Iuran Bulanan: $totalIuranBulanan"
-                        pengeluaranTextView.text = "3. Total Pengeluaran: $totalPengeluaran"
+                        jumlahIuranBulananTextView.text = "1. Jumlah Iuran Bulanan : $totalIuranBulanan"
+                        pengeluaranTextView.text = "3. Total Pengeluaran : $totalPengeluaran"
                         totalIuranTextView.text = "4. Rekap Total Iuran : $rekapIuran"
 
 
