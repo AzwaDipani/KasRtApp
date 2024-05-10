@@ -10,7 +10,7 @@
 
 **Tutorial :** <br>
 
-1. Youtube : 
+1. Youtube : https://youtu.be/qQfov32AZAk?si=byE2DPUZef0ZvZiE
 2. Pdf :
 
 Proyek: Aplikasi Android untuk Laporan Keuangan KAS RT
