@@ -11,6 +11,7 @@
 **Tutorial :** <br>
 
 1. Youtube : https://youtu.be/qQfov32AZAk?si=byE2DPUZef0ZvZiE
-2. Pdf :
+2. Pdf : [Hilmy_Jurnal_m0b[new].pdf](https://github.com/user-attachments/files/16103889/Hilmy_Jurnal_m0b.new.pdf)
+
 
 Proyek: Aplikasi Android untuk Laporan Keuangan KAS RT
